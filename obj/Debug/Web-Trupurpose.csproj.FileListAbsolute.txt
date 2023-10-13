@@ -1,0 +1,11 @@
+C:\Users\TOSINIGE\Documents\Visual Studio 2010\Projects\Web-Trupurpose\Web-Trupurpose\bin\Web-Trupurpose.dll
+C:\Users\TOSINIGE\Documents\Visual Studio 2010\Projects\Web-Trupurpose\Web-Trupurpose\bin\Web-Trupurpose.pdb
+C:\Users\TOSINIGE\Documents\Visual Studio 2010\Projects\Web-Trupurpose\Web-Trupurpose\bin\MySql.Data.dll
+C:\Users\TOSINIGE\Documents\Visual Studio 2010\Projects\Web-Trupurpose\Web-Trupurpose\bin\MySqlBackup.dll
+C:\Users\TOSINIGE\Documents\Visual Studio 2010\Projects\Web-Trupurpose\Web-Trupurpose\obj\Debug\Web-Trupurpose.dll
+C:\Users\TOSINIGE\Documents\Visual Studio 2010\Projects\Web-Trupurpose\Web-Trupurpose\obj\Debug\Web-Trupurpose.pdb
+C:\Users\TOSINIGE\Documents\Visual Studio 2010\Projects\Web-Trupurpose\Web-Trupurpose\obj\Debug\Web-Trupurpose.csprojResolveAssemblyReference.cache
+C:\Users\Olalekan\Downloads\Trupurpose-job-shop\obj\Debug\Web-Trupurpose.csproj.AssemblyReference.cache
+C:\Users\Olalekan\Downloads\Trupurpose-job-shop\obj\Debug\Web-Trupurpose.csproj.CoreCompileInputs.cache
+C:\Users\Olalekan\Downloads\Trupurpose-job-shop\obj\Debug\Web-Trupurpose.dll
+C:\Users\Olalekan\Downloads\Trupurpose-job-shop\obj\Debug\Web-Trupurpose.pdb
